@@ -1,5 +1,6 @@
 /*header*/
 @import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-arial/css/bpg-arial.min.css");
 .logo {
 	display: inline-block;
 	margin-right: 50px;
@@ -160,6 +161,10 @@ margin-bottom: 20px;
 }
 
 /*fonts*/
-.kargutli-absoluturi {
+.kartuli-absoluturi1 {
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	
+}
+.kartuli-absoluturi {
+	font-family: "BPG Arial", sans-serif;
 }
